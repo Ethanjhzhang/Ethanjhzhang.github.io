@@ -12,7 +12,9 @@ Hi! I’m Jinhan Zhang, a Master’s student in Human Factors Engineering at Tsi
 🎓 Education
 ======
 Tsinghua University
+
 Master of Engineering in Industrial Engineering (Human Factors Engineering)
+
 Bachelor of Engineering in Industrial Engineering
 
 
