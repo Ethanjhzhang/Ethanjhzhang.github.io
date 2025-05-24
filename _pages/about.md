@@ -11,7 +11,7 @@ Hi! I’m Jinhan Zhang, a Master’s student in Human Factors Engineering at Tsi
 
 
 
-🎓Education
+Education
 ======
 Tsinghua University
 
@@ -20,7 +20,7 @@ Master of Engineering in Industrial Engineering (Human Factors Engineering)
 Bachelor of Engineering in Industrial Engineering
 
 
-🏅Awards & Honors
+Awards & Honors
 ======
 AI Ring-Best Product Design, 6th Tsinghua University SDG Open Innovation Marathon Challenge (2024)
 
