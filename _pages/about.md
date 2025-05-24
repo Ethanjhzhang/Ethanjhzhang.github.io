@@ -9,6 +9,8 @@ redirect_from:
 
 Hi! I’m Jinhan Zhang, a Master’s student in Human Factors Engineering at Tsinghua University. My research explores how human-computer interaction and human factors principles can enhance the usability, comfort, and accessibility of intelligent systems—particularly in the context of wearable technology, aging users, and multimodal interaction. I’m interested in bridging rigorous experimental methods with real-world applications, aiming to design systems that are not only functional, but also intuitive and human-centered!
 
+
+
 🎓 Education
 ======
 Tsinghua University
